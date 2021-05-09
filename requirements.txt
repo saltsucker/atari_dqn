@@ -1,0 +1,6 @@
+tensorflow
+gym
+keras-rl2
+gym[atari]
+matplotlib
+torch
